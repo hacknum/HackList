@@ -1,0 +1,10 @@
+| 序号 | 图片 | 标题 | 简介1                                      | 简介2 | 价格 | 链接 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | ![img](https://static001.geekbang.org/resource/image/88/dc/889b84c4673ac81b9cdf7c8d88b19ddc.png) | Java进阶训练营 | 突破能力瓶颈，到更好的公司拿更高的薪水 | 课程对标阿里 P7，教学贴近大厂真实场景，一步步带你进阶Java高手 | 5999 | https://u.geekbang.org/subject/java/1000579 |
+| 2 | ![img](https://static001.geekbang.org/resource/image/e3/c0/e38684edaba1f780ca92602fa11a73c0.png) | 架构实战营 | 跟着前阿里 P9 李运华，系统提升你的架构能力 | 对标阿里 P7-P8 架构师能力模型，跟着前阿里 P9 华仔，15 周学习进阶优秀架构师 | 7999 | https://u.geekbang.org/subject/arch2nd/1000698 |
+| 3 | ![img](https://static001.geekbang.org/resource/image/6d/1b/6dd7faaa35042a276b89e490a2b4831b.jpg) | Java 提薪实战营 | 突破能力瓶颈，到更好的公司拿更高的薪水 | 15周，10大内容模块，8大项目实战，对标阿里 P7 能力水准，进阶为高级 Java 工程师 | 5999 | https://u.geekbang.org/subject/java3rd/1000931 |
+| 4 | ![img](https://static001.geekbang.org/resource/image/15/12/15ee0c80f256a5790be01a3c2c7dda12.jpg) | Go 进阶训练营 | 抢占先机，成为未来 3 年抢手的后端开发人才 | 掌握云计算时代首选编程语言，成为抢手的后端开发人才！ | 6999 | https://u.geekbang.org/subject/go/1000607 |
+| 5 | ![img](https://static001.geekbang.org/resource/image/fc/37/fc88fe4bf4ee1603ca8eab485f24bc37.jpg) | 云原生训练营 | 向技术要红利，4 个月，挑战 50 万年薪 | 15周，15大内容模块，8大项目实战，把握技术红利，占据时代优势，成为一名合格的云原生工程师 | 6999 | https://u.geekbang.org/subject/cloudnative/1000797 |
+| 6 | ![img](https://static001.geekbang.org/resource/image/82/5c/8255b5dd24d21d727aa3d03324470f5c.jpg) | Go 工程师零基础就业班 | 助你找到一份薪资高、前景好的工作 | eBay 资深 Go 软件工程师，手把手带你从零基础掌握 Go 语言，快速成长为一名合格的 Go 工程师！ | 9999 | https://u.geekbang.org/subject/basicgo/1000849 |
+| 7 | ![img](https://static001.geekbang.org/resource/image/6d/1b/6dd7faaa35042a276b89e490a2b4831b.jpg) | Java 提薪实战营保过班 | 突破能力瓶颈，到更好的公司拿更高的薪水 | 15周，10大内容模块，8大项目实战，对标阿里 P7 能力水准，进阶为高级 Java 工程师 | 9999 | https://u.geekbang.org/subject/java3rdoffer/1000955 |
+| 8 | ![img](https://static001.geekbang.org/resource/image/b6/a6/b60c6fbf89a0e1b5c1f0969a603620a6.png) | 算法训练营2021版 | 算法训练营2021版 | 学好算法，去大厂，去中国乃至世界最好的公司 | 3999 | https://u.geekbang.org/subject/algorithm3rd/1000760 |
